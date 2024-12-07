@@ -1,0 +1,26 @@
+title: Roland Hack's Blog
+description: Exploring cybersecurity, bug bounty, and tech insights.
+
+# Theme
+theme: jekyll-theme-hacker
+
+# Plugins
+plugins:
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation links
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: CVEs
+    url: /cves/
+  - title: Hall of Fame
+    url: /hall-of-fame/
+
+# Markdown settings
+markdown: kramdown
+
