@@ -25,4 +25,4 @@ navigation:
 markdown: kramdown
 
 url: "https://rolandhack.github.io"  
-baseurl: "/rolandhack.github.io"  
+baseurl: ""  
